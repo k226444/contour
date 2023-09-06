@@ -188,7 +188,7 @@ cmake --build build/ --target install
 * [ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code) in Wikipedia
 
 ### License
-
+macos
 ```
 Contour - A modern C++ Terminal Emulator
 -------------------------------------------
